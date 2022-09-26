@@ -1,2 +1,2 @@
-# wx
-diuren
+#wexin
+weixin
